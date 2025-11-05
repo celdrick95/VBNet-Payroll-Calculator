@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "vbnetPrac1/1.0.0": {
+        "runtime": {
+          "vbnetPrac1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vbnetPrac1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
